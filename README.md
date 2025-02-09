@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 ### Prepare Data Files
 
-Ensure you have two CSV files in the working directory:
+Ensure you export CSV files from two data extensions having the right fields below and put them in the working directory:
 
 - **Data Files:**
   - **`automation_data.csv`** – Contains automation execution details.
