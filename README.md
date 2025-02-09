@@ -21,6 +21,18 @@ The SFMC Automation Healthcheck Dashboard is a Streamlit-based monitoring tool d
 
 ![Screenshot](/screenshots/3.png)
 
+![Screenshot](/screenshots/4.png)
+
+![Screenshot](/screenshots/5.png)
+
+![Screenshot](/screenshots/6.png)
+
+![Screenshot](/screenshots/7.png)
+
+![Screenshot](/screenshots/8.png)
+
+![Screenshot](/screenshots/9.png)
+
 ## Installation
 ### Clone the Repository:
 
