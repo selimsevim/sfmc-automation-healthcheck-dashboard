@@ -15,6 +15,12 @@ The SFMC Automation Healthcheck Dashboard is a Streamlit-based monitoring tool d
 - **Interactive Data Visualization**: Uses **Plotly** and **Streamlit** to provide real-time insights with charts and tables.
 - **Custom Timeframe Selection**: Enables users to set specific date ranges for detailed analysis.
 
+![Screenshot](/screenshots/1.png)
+
+![Screenshot](/screenshots/2.png)
+
+![Screenshot](/screenshots/3.png)
+
 ## Installation
 ### Clone the Repository:
 
